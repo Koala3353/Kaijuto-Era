@@ -1,2 +1,3 @@
-# Kaijuto-Era
-Imagine thinking that a dependency's rickroll is a part of my code 🙄
+# What it does
+Gives currency upon playing a specified game for every 5 minutes.
+It has a configurable shop file. (items.json)
